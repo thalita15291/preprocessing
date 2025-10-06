@@ -26,7 +26,7 @@ seluruh proses *cleaning* dan *transformation* diotomatisasi menggunakan **pipel
 
 ### 3. verifikasi keberhasilan *transformation* (bukti serius)
 
-keberhasilan `standardscaler` diverifikasi secara numerik. ini adalah **bukti keras** bahwa data siap untuk model berbasis jarak.
+keberhasilan `standardscaler` diverifikasi secara numerik. ini adalah **bukti** bahwa data siap untuk model berbasis jarak.
 
 #### hasil *output* statistik (bukti standardisasi)
 
